@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Logo](logo.png)
+![Logo](alex-logo.png)
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?color=white&logo=Python)
