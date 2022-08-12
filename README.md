@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?color=white&logo=Python)
 ![Go](https://img.shields.io/badge/-Golang-000?color=white&logo=Go)
-![C++](https://img.shields.io/badge/-C++-000?color=white&logo=c%2b%2b&logoColor=00599C)
+![Arduino](https://img.shields.io/badge/-Arduino-000?color=white&logo=Arduino&logoColor=00599C)
 
 ### Technologies
 
@@ -17,7 +17,7 @@
 [<img src="https://img.shields.io/badge/-Linux-000?color=white&logo=Linux&logoColor=black">](https://www.kernel.org/)
 
 ### Stats
-[<img height="137px" src="https://github-readme-stats.vercel.app/api?username=alex123012&show_icons=true&include_all_commits=true&theme=dark&count_private=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex123012&hide=Jupyter%20Notebook,html,css,scss,javascript&langs_count=6&layout=compact&theme=dark&count_private=true" />](https://alex123012.github.io/)
+[<img height="137px" src="https://github-readme-stats.vercel.app/api?username=alex123012&show_icons=true&include_all_commits=true&theme=dark&count_private=true&bg_color=0d1116&hide_border=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex123012&hide=Jupyter%20Notebook,html,css,scss,javascript&langs_count=6&layout=compact&theme=dark&count_private=true&bg_color=0d1116&hide_border=true" />](https://alex123012.github.io/)
 
 <!--
 **alex123012/alex123012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
